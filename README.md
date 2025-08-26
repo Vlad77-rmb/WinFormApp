@@ -29,6 +29,12 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 Создайте новую базу данных с именем EmployeeDB
 
 Выполните SQL-скрипты для создания таблиц и хранимых процедур (скрипты прилагаются отдельно)
+1) Tables
+2) Data
+3) Procedures
+4) Test
+5) Или сразу Full
+
 
 4. Запуск приложения
 Вариант 1: Запуск через Visual Studio (для разработки)
