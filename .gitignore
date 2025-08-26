@@ -1,0 +1,26 @@
+# Файлы сборки и запуска
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.docstates
+*.ncb
+*.sln.docstates
+
+# Папка Visual Studio
+.vs/
+
+# Файлы резервных копий
+*.bak
+*.tmp
+
+# Файлы пакетов NuGet
+*.nupkg
+packages/
+
+# Файлы журналов
+*.log
+
+# Файлы результатов тестирования
+TestResults/
